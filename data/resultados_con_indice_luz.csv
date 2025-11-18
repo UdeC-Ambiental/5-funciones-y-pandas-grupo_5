@@ -1,0 +1,21 @@
+sitio,temperatura,humedad,luz,biomasa,indice_luz,categoria_luz
+Bosque Alto de Nocaima,23.8,82.2,1030,250.8,0.6950067476383266,media
+Humedal Facatativá,18.0,89.7,395,225.8,0.26653171390013497,baja
+Río San Francisco,17.2,85.4,647,237.5,0.4365721997300945,baja
+Ladera de La Vega,21.7,81.4,769,252.4,0.5188933873144399,media
+Zona Húmeda El Vergel,24.1,85.3,1333,302.7,0.8994601889338731,alta
+Río Subachoque,19.9,71.3,563,75.0,0.3798920377867746,baja
+Humedal Mosquera,27.7,72.7,854,279.1,0.5762483130904184,media
+Río Madrid,23.6,68.0,1482,123.1,1.0,alta
+Reserva San Miguel,20.7,70.3,899,108.3,0.606612685560054,media
+Ladera de Sasaima,19.5,82.1,1016,221.7,0.6855600539811066,media
+Bosque de Guaduas,18.8,63.2,401,78.7,0.27058029689608637,baja
+Humedal Cajicá,24.2,75.2,1283,315.6,0.8657219973009447,alta
+Río Villeta,20.1,75.1,1004,238.2,0.6774628879892037,media
+Quebrada Cune,14.8,77.3,931,267.0,0.6282051282051282,media
+Bosque de Tenjo,19.6,74.9,678,54.8,0.4574898785425101,media
+Ladera de Tabio,24.3,70.9,630,228.3,0.4251012145748988,baja
+Río Bogotá (tramo Sabana),16.6,74.9,771,217.0,0.520242914979757,media
+Humedal Gualí,16.5,91.3,1102,97.7,0.7435897435897436,alta
+Reserva de Nocaima,21.4,93.0,1344,95.9,0.9068825910931174,alta
+Bosque de San Francisco,21.4,77.6,888,258.7,0.5991902834008097,media
